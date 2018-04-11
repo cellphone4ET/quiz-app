@@ -35,7 +35,7 @@ h2 {
 }
 
 button {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .main-image, .final-image {
@@ -71,11 +71,11 @@ button {
 }
 
 .question {
-	margin-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 .fieldset {
-	border: none;
+  border: none;
 }
 
 .fieldset input::-webkit-input-placeholder{ /* Chrome/Opera/Safari */
@@ -104,7 +104,7 @@ button {
 }
 
 .radios {
-	margin-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 .submit-button {
@@ -140,21 +140,21 @@ button {
 
 
 #answerinput {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .answertext, .results-text {
-	text-align: center;
+  text-align: center;
 }
 
 .resultsbold {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .next-button, .restartquiz-button {
-	display: block;
-	margin: auto;
-	margin-bottom: 100px;
+  display: block;
+  margin: auto;
+  margin-bottom: 100px;
 }
 
 .final-image {
