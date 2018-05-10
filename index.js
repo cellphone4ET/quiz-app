@@ -139,7 +139,7 @@ function quizQuestionTemplate() {
 
 		<form id="submit-form" class="js-question-template">
 			<fieldset class="fieldset">
-	  		<div class="radios">
+	  		<div class="radios" role="radiogroup">
 		  		<label class="submit-label">
 		  			<input type="radio" name="answer-option" value="A">${STORE[globalCurrentQuestion].answer1}</input>
 		  		</label>
